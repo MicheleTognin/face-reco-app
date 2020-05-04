@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/face-reco-app/static/css/main.498a3eb6.chunk.css",
-    "main.js": "/face-reco-app/static/js/main.9bfe0a72.chunk.js",
-    "main.js.map": "/face-reco-app/static/js/main.9bfe0a72.chunk.js.map",
-    "runtime-main.js": "/face-reco-app/static/js/runtime-main.a1b4e03c.js",
-    "runtime-main.js.map": "/face-reco-app/static/js/runtime-main.a1b4e03c.js.map",
-    "static/css/2.87fa5000.chunk.css": "/face-reco-app/static/css/2.87fa5000.chunk.css",
-    "static/js/2.fa95057c.chunk.js": "/face-reco-app/static/js/2.fa95057c.chunk.js",
-    "static/js/2.fa95057c.chunk.js.map": "/face-reco-app/static/js/2.fa95057c.chunk.js.map",
-    "index.html": "/face-reco-app/index.html",
-    "precache-manifest.395986dcbb6dccb6a2f23671473dcd23.js": "/face-reco-app/precache-manifest.395986dcbb6dccb6a2f23671473dcd23.js",
-    "service-worker.js": "/face-reco-app/service-worker.js",
-    "static/css/2.87fa5000.chunk.css.map": "/face-reco-app/static/css/2.87fa5000.chunk.css.map",
-    "static/css/main.498a3eb6.chunk.css.map": "/face-reco-app/static/css/main.498a3eb6.chunk.css.map",
-    "static/js/2.fa95057c.chunk.js.LICENSE.txt": "/face-reco-app/static/js/2.fa95057c.chunk.js.LICENSE.txt"
+    "main.css": "/michele-tognin-face-reco-app/static/css/main.498a3eb6.chunk.css",
+    "main.js": "/michele-tognin-face-reco-app/static/js/main.12a497ce.chunk.js",
+    "main.js.map": "/michele-tognin-face-reco-app/static/js/main.12a497ce.chunk.js.map",
+    "runtime-main.js": "/michele-tognin-face-reco-app/static/js/runtime-main.9f7fcc78.js",
+    "runtime-main.js.map": "/michele-tognin-face-reco-app/static/js/runtime-main.9f7fcc78.js.map",
+    "static/css/2.87fa5000.chunk.css": "/michele-tognin-face-reco-app/static/css/2.87fa5000.chunk.css",
+    "static/js/2.eeb1f7e6.chunk.js": "/michele-tognin-face-reco-app/static/js/2.eeb1f7e6.chunk.js",
+    "static/js/2.eeb1f7e6.chunk.js.map": "/michele-tognin-face-reco-app/static/js/2.eeb1f7e6.chunk.js.map",
+    "index.html": "/michele-tognin-face-reco-app/index.html",
+    "precache-manifest.c65aa8f97ce8dd7f6be224117082717a.js": "/michele-tognin-face-reco-app/precache-manifest.c65aa8f97ce8dd7f6be224117082717a.js",
+    "service-worker.js": "/michele-tognin-face-reco-app/service-worker.js",
+    "static/css/2.87fa5000.chunk.css.map": "/michele-tognin-face-reco-app/static/css/2.87fa5000.chunk.css.map",
+    "static/css/main.498a3eb6.chunk.css.map": "/michele-tognin-face-reco-app/static/css/main.498a3eb6.chunk.css.map",
+    "static/js/2.eeb1f7e6.chunk.js.LICENSE.txt": "/michele-tognin-face-reco-app/static/js/2.eeb1f7e6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a1b4e03c.js",
+    "static/js/runtime-main.9f7fcc78.js",
     "static/css/2.87fa5000.chunk.css",
-    "static/js/2.fa95057c.chunk.js",
+    "static/js/2.eeb1f7e6.chunk.js",
     "static/css/main.498a3eb6.chunk.css",
-    "static/js/main.9bfe0a72.chunk.js"
+    "static/js/main.12a497ce.chunk.js"
   ]
 }
