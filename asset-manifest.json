@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/face-reco-app/static/css/main.6e1fa0d4.chunk.css",
-    "main.js": "/face-reco-app/static/js/main.f157011d.chunk.js",
-    "main.js.map": "/face-reco-app/static/js/main.f157011d.chunk.js.map",
+    "main.css": "/face-reco-app/static/css/main.498a3eb6.chunk.css",
+    "main.js": "/face-reco-app/static/js/main.9bfe0a72.chunk.js",
+    "main.js.map": "/face-reco-app/static/js/main.9bfe0a72.chunk.js.map",
     "runtime-main.js": "/face-reco-app/static/js/runtime-main.a1b4e03c.js",
     "runtime-main.js.map": "/face-reco-app/static/js/runtime-main.a1b4e03c.js.map",
     "static/css/2.87fa5000.chunk.css": "/face-reco-app/static/css/2.87fa5000.chunk.css",
     "static/js/2.fa95057c.chunk.js": "/face-reco-app/static/js/2.fa95057c.chunk.js",
     "static/js/2.fa95057c.chunk.js.map": "/face-reco-app/static/js/2.fa95057c.chunk.js.map",
     "index.html": "/face-reco-app/index.html",
-    "precache-manifest.cb9260e3d79f35391666c3da51f55bd0.js": "/face-reco-app/precache-manifest.cb9260e3d79f35391666c3da51f55bd0.js",
+    "precache-manifest.395986dcbb6dccb6a2f23671473dcd23.js": "/face-reco-app/precache-manifest.395986dcbb6dccb6a2f23671473dcd23.js",
     "service-worker.js": "/face-reco-app/service-worker.js",
     "static/css/2.87fa5000.chunk.css.map": "/face-reco-app/static/css/2.87fa5000.chunk.css.map",
-    "static/css/main.6e1fa0d4.chunk.css.map": "/face-reco-app/static/css/main.6e1fa0d4.chunk.css.map",
+    "static/css/main.498a3eb6.chunk.css.map": "/face-reco-app/static/css/main.498a3eb6.chunk.css.map",
     "static/js/2.fa95057c.chunk.js.LICENSE.txt": "/face-reco-app/static/js/2.fa95057c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a1b4e03c.js",
     "static/css/2.87fa5000.chunk.css",
     "static/js/2.fa95057c.chunk.js",
-    "static/css/main.6e1fa0d4.chunk.css",
-    "static/js/main.f157011d.chunk.js"
+    "static/css/main.498a3eb6.chunk.css",
+    "static/js/main.9bfe0a72.chunk.js"
   ]
 }
