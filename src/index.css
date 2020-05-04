@@ -2,8 +2,8 @@ body {
   margin: 0;
   padding: 0;
   font-family:'Courier New', Courier, monospace;
-  background: rgb(1,0,36);
-  background: linear-gradient(90deg, rgba(1,0,36,1) 0%, rgba(9,108,121,1) 50%, rgba(255,0,0,1) 100%);
+  background: rgb(0,16,36);
+  background: linear-gradient(90deg, rgba(0,16,36,1) 0%, rgba(9,63,121,1) 0%, rgba(0,239,255,1) 100%);
 }
 
 button {
